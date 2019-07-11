@@ -1,4 +1,4 @@
-NOTE: This code is abandonned legacy and whatever value was here will be move into the more serious JaJa library found here: http://jaja.masyl.net/
+NOTE: This code is abandoned legacy and whatever value was here will be move into the more serious JaJa library found here: http://jaja.masyl.net/
 
 -----
 
